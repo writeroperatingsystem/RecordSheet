@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    background-color: #1b1b1b;
+    color: white;
+}
+
+h1 {
+    color: #53b3ff;
+}
+
+a {
+    color: #53b3ff;
+}
+
+section {
+    margin-bottom: 40px;
+}
